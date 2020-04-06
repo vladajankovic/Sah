@@ -123,6 +123,6 @@ public class Main {
 
 /**
  * Moguce igrati naizmenicno poteze (beli, crni, beli, crni, ...).
- * FORMAT UNOSA U INPUT: "figura kolona vrsta" (pr. p5 e 3, q h 5, ...), mora biti odvojeno zarezima
+ * FORMAT UNOSA U INPUT: "figura kolona vrsta" (pr. p5 e 3, q h 5, ...), MORA BITI ODVOJENO BLANKO (' ') ZNAKOM !!!!!!!!!!
  * 
  */
